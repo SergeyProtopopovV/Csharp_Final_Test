@@ -16,13 +16,28 @@
 
 void PrintArray(string[] array)
 {
+    Console.WriteLine(String.Join(", ", array));
+}
+
+string[] MakeNewStringsArray(string[] array)
+{
+    string[] new_array = new string[] {};
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write($"'{array[i]}'\t");
+        if (array[i].Length <= 3)
+        {
+            Array.Resize(ref new_array, new_array.Length + 1);
+            new_array[new_array.Length - 1] = array[i];
+        }
     }
+    return new_array;
 }
+
 
 Console.Write("Введите количество элементов в массиве строк: ");
 int amount_of_strings = Convert.ToInt32(Console.ReadLine());
 string[] array = MakeStringsArray(amount_of_strings);
+Console.WriteLine($"Случайный массив из {amount_of_strings} строк:");
 PrintArray(array);
+Console.WriteLine("Новый массив из строк, длиной в 3 символа и меньше:");
+PrintArray(MakeNewStringsArray(array));
