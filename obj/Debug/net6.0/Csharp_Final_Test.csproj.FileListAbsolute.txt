@@ -1,0 +1,15 @@
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\Csharp_Final_Test.csproj.AssemblyReference.cache
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\Csharp_Final_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\Csharp_Final_Test.AssemblyInfoInputs.cache
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\Csharp_Final_Test.AssemblyInfo.cs
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\Csharp_Final_Test.csproj.CoreCompileInputs.cache
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\bin\Debug\net6.0\Csharp_Final_Test.exe
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\bin\Debug\net6.0\Csharp_Final_Test.deps.json
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\bin\Debug\net6.0\Csharp_Final_Test.runtimeconfig.json
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\bin\Debug\net6.0\Csharp_Final_Test.dll
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\bin\Debug\net6.0\Csharp_Final_Test.pdb
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\Csharp_Final_Test.dll
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\refint\Csharp_Final_Test.dll
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\Csharp_Final_Test.pdb
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\Csharp_Final_Test.genruntimeconfig.cache
+C:\Users\Serge\GeekBrains\Csharp\Homeworks\Csharp_Final_Test\obj\Debug\net6.0\ref\Csharp_Final_Test.dll
